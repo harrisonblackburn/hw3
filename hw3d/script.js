@@ -37,3 +37,4 @@ length = passwordLength
 
 // Add event listener to generate button
 generateBtn.addEventListener("click", writePassword);
+console.log('Hithub change test')
